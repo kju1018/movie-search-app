@@ -53,7 +53,7 @@ export default class TheHeader extends Component {
         </ul>
       </nav>
       <a href="#/about" class="user">
-        <img src="/public/icon.jpg" alt="user">
+        <img src="icon.jpg" alt="user">
       </a>
     `
   }
